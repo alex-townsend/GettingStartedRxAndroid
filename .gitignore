@@ -1,0 +1,36 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+
+# Gradle files
+.gradle/
+build/
+subProjects/facebook/build
+
+# Intellij project files
+.idea/
+.idea/workspace.xml
+gen-external-apklibs/
+*.iml
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Mac-specific stuff
+.DS_Store
